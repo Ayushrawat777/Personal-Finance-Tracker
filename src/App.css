@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 90vh;
+}
+
+.charts {
+  height: auto;
+  margin: 2rem;
+  width: auto;
+  display: flex;
+  column-gap: 3%;
+  align-items: center;
+}
+.charts-wrapper{
+  box-shadow: var(--shadow); 
+  padding: 2rem;  
+  border-radius: 0.5rem;
+  width: 50%;
+}

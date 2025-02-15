@@ -1,0 +1,44 @@
+{
+  "name": "finace",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/charts": "^2.2.6",
+    "@ant-design/plots": "^2.3.3",
+    "antd": "^5.23.4",
+    "cra-template": "1.2.0",
+    "firebase": "^11.2.0",
+    "moment": "^2.26.0",
+    "papaparse": "^5.5.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-router-dom": "^7.1.5",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^11.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
