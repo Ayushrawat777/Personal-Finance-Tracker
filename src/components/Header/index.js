@@ -12,7 +12,7 @@ const Header = () => {
 
   useEffect(() => {
     if (user) {
-      navigate("/dashboard");
+      navigate("/Personal-Finance-Tracker/dashboard");
     }
   }, [user, loading]);
 
@@ -21,7 +21,7 @@ const Header = () => {
       signOut(auth)
         .then(() => {
           toast.success("Logged Out Successfully!");
-          navigate("/");
+          navigate("/Personal-Finance-Tracker");
         })
         .catch((error) => {
           toast.error(error.message);
