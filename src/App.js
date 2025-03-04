@@ -16,8 +16,8 @@ function App() {
 
     <Header/>
     <Routes>
-      <Route path="/" element={<Signup/>}/>
-      <Route path="/dashboard" element={<Dashboard/>}/>
+      <Route path="/Personal-Finance-Tracker" element={<Signup/>}/>
+      <Route path="/Personal-Finance-Tracker/dashboard" element={<Dashboard/>}/>
     </Routes>
    </Router>
     </>
