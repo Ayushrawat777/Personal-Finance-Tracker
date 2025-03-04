@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Personal-Finance-Tracker/static/css/main.99f078ef.css",
-    "main.js": "/Personal-Finance-Tracker/static/js/main.69e682df.js",
+    "main.js": "/Personal-Finance-Tracker/static/js/main.3d2e326f.js",
     "index.html": "/Personal-Finance-Tracker/index.html",
     "static/media/transactions.svg": "/Personal-Finance-Tracker/static/media/transactions.e95e0bdb8eb1574f718b0740e8af8f88.svg",
     "static/media/search.svg": "/Personal-Finance-Tracker/static/media/search.fec503344f28e1ee49198a80734361b1.svg",
     "main.99f078ef.css.map": "/Personal-Finance-Tracker/static/css/main.99f078ef.css.map",
-    "main.69e682df.js.map": "/Personal-Finance-Tracker/static/js/main.69e682df.js.map"
+    "main.3d2e326f.js.map": "/Personal-Finance-Tracker/static/js/main.3d2e326f.js.map"
   },
   "entrypoints": [
     "static/css/main.99f078ef.css",
-    "static/js/main.69e682df.js"
+    "static/js/main.3d2e326f.js"
   ]
 }
